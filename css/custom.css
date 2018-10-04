@@ -1,0 +1,22 @@
+
+.top-layer {
+  position: absolute;
+  z-index: 1;
+}
+
+.M-AT2 {
+  position: absolute;
+  top: 566px;
+  left: 201.5px;
+}
+
+.TP-2 {
+  position: absolute;
+  top: 792px;
+  left: 114.5px;
+}
+
+
+#example {
+  padding: .25rem!important;
+}
