@@ -1,4 +1,9 @@
 
+body {
+  padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
 .top-layer {
   position: absolute;
   z-index: 1;
